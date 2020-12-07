@@ -3,7 +3,7 @@ Test Technique Livementor - Test Ruby
 
 Objectif : Convert JSON to CSV
 
-Comment l'utiliser à date :
+# Comment l'utiliser à date :
 
 Charger le JSON, modifier le f_input en fonction du nom donné et lancer le programme (pas optimal) -> implementer un système automatique à faire
 
